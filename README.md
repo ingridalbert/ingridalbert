@@ -1,3 +1,3 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ingridalbert/ingridalbert/main/name.svg" alt="Ingrid Albert" />
+  <img src="https://raw.githubusercontent.com/ingridalbert/ingridalbert/main/name.svg?v=2" alt="Ingrid Albert" />
 </h1>
